@@ -1,0 +1,12 @@
+.todo_list-page {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  .todo_list {
+    margin-top: 200px;
+    max-width: 1000px;
+    .action-bar {
+      margin-bottom: 30px;
+    }
+  }
+}
